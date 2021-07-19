@@ -1,0 +1,30 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-image: linear-gradient(to top right, #009fff, #ec2f4b);
+  display: flex;
+  justify-content: center;
+  margin-top: 100px;
+  height: 100vh;
+}
+
+.container {
+  text-align: center;
+}
+
+.container h1 {
+  font-size: 50px;
+}
+
+.container a {
+  display: inline-block;
+  width: 300px;
+  height: 100px;
+  text-align: center;
+  line-height: 100px;
+  background-color: #ff6b81;
+  font-size: 38px;
+  text-decoration: none;
+  color: #fff;
+  margin-bottom: 30px;
+}
